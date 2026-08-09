@@ -1,4 +1,4 @@
-[# Stock Price Time Series Forecasting
+# Stock Price Time Series Forecasting
 
 > Codveda Data Science Internship — Task 3
 > Real stock price analysis and ARIMA forecasting on live Yahoo Finance data.
